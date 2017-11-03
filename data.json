@@ -101,7 +101,7 @@
 			{
 				"sections": [
 					{
-						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists <br>",
+						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists and no serious contender as the successor of the web <br>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
@@ -125,7 +125,7 @@
 			{
 				"sections": [
 					{
-						"section": "Slide 1",
+						"section": "The decentralized web will only work if Google/Facebook/Amazone are onboard<br>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
@@ -149,7 +149,31 @@
 			{
 				"sections": [
 					{
-						"section": "Slide 1",
+						"section": "<p>In the move to a decentralized web, we do not need to bring along outdated technologies</p><p>(email, )<br></p>",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Agree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Disagree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "<p>The decentralized web is well suited for some solutions, but not for everything</p><p>(online banking, e-commerce)<br></p>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
