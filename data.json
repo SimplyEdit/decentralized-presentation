@@ -7,6 +7,16 @@
 					"data-state": "simply-filter simply-orange"
 				},
 				"data-simply-template": "Simple"
+			},
+			{
+				"sections": [
+					{
+						"section": "Slide 1",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
 			}
 		]
 	}
