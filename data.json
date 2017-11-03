@@ -197,7 +197,7 @@
 			{
 				"sections": [
 					{
-						"section": "<h1>The end</h1><p>Feel free to stay and discuss some more!<br></p>",
+						"section": "<h1>The end</h1><p>Feel free to stay and talk some more...</p><p><br></p><p>...or get into some die-hard tech discussion<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
