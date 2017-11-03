@@ -38,7 +38,16 @@
 				"sections": [
 					{
 						"section": "Slide 1",
-						"sectionWrapper": {},
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Slide 1",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
+						},
 						"data-simply-template": "Simple"
 					}
 				],
