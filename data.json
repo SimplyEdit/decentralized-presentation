@@ -101,7 +101,55 @@
 			{
 				"sections": [
 					{
-						"section": "The decentralized web is just another dark web<br>",
+						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists <br>",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Agree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Disagree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "Slide 1",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Agree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Disagree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "Slide 1",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
