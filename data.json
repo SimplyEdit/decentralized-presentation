@@ -58,7 +58,7 @@
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>What is holding us back?</p><p><br></p><p>1. All websites, applications, software, storage etc that uses a (central) server will not work <br></p><p>2. Politics and money<br></p>",
+						"section": "<p>What is holding us back?</p><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Cluelessness<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -70,15 +70,17 @@
 			{
 				"sections": [
 					{
-						"section": "SimplyEdit the first CMS designed for the decentralized web<br>",
+						"section": "<p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
 						"sectionWrapper": {
-							"data-state": "simply-filter simply-orange"
+							"data-state": "simply-filter simply-purple"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "Slide 1",
-						"sectionWrapper": {},
+						"section": "<p>How does it work?</p><p><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAA8CAYAAADxJz2MAAAB/0lEQVR4nO3arZLDIBAH8Hv/N4iIiIlgpoIZDCICE5OqqGgegFfYE51kelyTlq8s26z4qxj4TQssy8/9fgdOfH6wB0A9G6BzjhMQBmRABiQdBmRABiSdbIDWWjDGgNaaVMZxxAec5xnatoWmaUim6zqY5xkHcFkW0nhr2rYFa+35gEop9MnnyjAM5wMKIbYB9H2ftJ5gpOu6bfy32w0XUAiBDnL2+BmQCuA4jtvRYRgGWJYFHY8EoLUW+r5/uWgbYxjwaABHeLUgVg2otS52/roE4PO3o0zTlISQsp5WDfjpAVZrHQ2wlpFSyu8DLP0L9GvwGMSqAUuugXsXGKGIVQNaa/+USrnqz3e3PyGIVQOuk91DVEplxwtFrB5wjTEGpJQghACtddTOGXrv+AkiGcDUxF7avkO8BGDqjfcR4tcD5moX7CGSBlRKHfYicvdaXiGSBZRSQtM8zoGvEEs1qvydnyTgirfGRyzZ5TuqlkgA+ng+YukWKWnAPbxnxNItUrKA7/DOCknAWvBIAtaERw6wNjxygNhYDMiA+GAMeGVAIUR1+YpauKYwIAPi5vntDgqgf1jGXuNC4j98inkhkQw4TRP6zporMZ3CZEDnHi1L7MmnJvaZXRZA5x4vpJRS6H/L0MT2qLMDXjUMyIAMSDoMyIAMSDr/ADlxYcDE/AKmOkzKCFDJlAAAAABJRU5ErkJggg==\"><br></p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-purple"
+						},
 						"data-simply-template": "Simple"
 					}
 				],
