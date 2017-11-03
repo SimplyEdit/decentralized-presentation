@@ -11,8 +11,17 @@
 			{
 				"sections": [
 					{
-						"section": "Slide 1",
-						"sectionWrapper": {},
+						"section": "<p>We are SimplyEdit</p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-orange"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "<p>Lizanne Overkamp - CEO<br></p><p>Auke van Slooten - Evangelist</p><p>Yvo Brevoort - Lead developer</p><p>Kimberly Verhoog - Marketing</p><p>Florian Overkamp - Advisor</p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-purple"
+						},
 						"data-simply-template": "Simple"
 					}
 				],
