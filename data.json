@@ -85,6 +85,18 @@
 					}
 				],
 				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "<p>Discussion</p><p><br></p><p>Give your opinion on the statements and elaborate if you want<br></p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-orange"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
 			}
 		]
 	}
