@@ -51,14 +51,14 @@
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<h1>Why go decentralized?</h1><p><br></p><p>The current web is flawed</p><p>Pricavy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
+						"section": "<h1>Why go decentralized?</h1><p><br></p><p>The current web is flawed</p><p>Privacy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-aqua"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Cluelessness<br></p>",
+						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Ignorance</p><p>4. The technology is still very beta<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -70,7 +70,7 @@
 			{
 				"sections": [
 					{
-						"section": "<h1>What did we do</h1><p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
+						"section": "<h1>Our contribution<br></h1><p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -101,7 +101,7 @@
 			{
 				"sections": [
 					{
-						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists and no serious contender as the successor of the web <br>",
+						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists and therefore no serious contender as the successor of the web <br>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
@@ -149,7 +149,7 @@
 			{
 				"sections": [
 					{
-						"section": "<p>In the move to a decentralized web, we do not need to bring along outdated technologies</p><p>(email, )<br></p>",
+						"section": "<p>In the move to a decentralized web, we do not need to bring along outdated technologies</p><p>(email, FTP)<br></p>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
