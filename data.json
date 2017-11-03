@@ -11,21 +11,21 @@
 			{
 				"sections": [
 					{
-						"section": "<p>We are SimplyEdit</p><p><br></p><p>(swipe left/right and up/down to follow this presentation)<br></p>",
+						"section": "<h1>We are SimplyEdit</h1><p><br></p><p>(swipe left/right and up/down to follow this presentation)<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>Lizanne Overkamp - CEO<br></p><p>Auke van Slooten - Evangelist</p><p>Yvo Brevoort - Lead developer</p><p>Kimberly Verhoog - Marketing</p><p>Florian Overkamp - Advisor</p>",
+						"section": "<h1>Nice to meet you!</h1><p>Lizanne Overkamp - CEO<br></p><p>Auke van Slooten - Evangelist</p><p>Yvo Brevoort - Lead developer</p><p>Kimberly Verhoog - Marketing</p><p>Florian Overkamp - Advisor</p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-purple"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>simplyedit.io</p><p>hello@simplyedit.io<br></p><p>https://www.linkedin.com/company/simplyedit/</p><p>https://www.instagram.com/simplyeditweb/</p><p>https://www.facebook.com/simplyedit/</p><p>https://twitter.com/SimplyEditWeb<br>\n\n</p><p>https://github.com/SimplyEdit<br></p>",
+						"section": "<h1>How to contact us</h1><p>simplyedit.io</p><p>hello@simplyedit.io<br></p><p>https://www.linkedin.com/company/simplyedit/</p><p>https://www.instagram.com/simplyeditweb/</p><p>https://www.facebook.com/simplyedit/</p><p>https://twitter.com/SimplyEditWeb<br>\n\n</p><p>https://github.com/SimplyEdit<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-aqua"
 						},
@@ -37,28 +37,28 @@
 			{
 				"sections": [
 					{
-						"section": "<p>Decentralized web</p><p><br></p><p>How much do you know? <br></p>",
+						"section": "<h1>Decentralized web</h1><p><br></p><p>How much do you know? <br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>How does it work?</p><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/centralised-decentralised.png\" alt=\"\" class=\"large\"><br></p><p>peer2peer</p><p>Every receiver can become a sender <br></p>",
+						"section": "<h1>How does it work?</h1><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/centralised-decentralised.png\" alt=\"\" class=\"large\"><br></p><p>peer2peer</p><p>Every receiver can become a sender <br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-purple"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>Why go decentralized?</p><p><br></p><p>The current web is flawed</p><p>Pricavy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
+						"section": "<h1>Why go decentralized?</h1><p><br></p><p>The current web is flawed</p><p>Pricavy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-aqua"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>What is holding us back?</p><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Cluelessness<br></p>",
+						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Cluelessness<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -70,14 +70,14 @@
 			{
 				"sections": [
 					{
-						"section": "<p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
+						"section": "<h1>What did we do</h1><p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<p>How does it work?</p><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/machine.jpg\" alt=\"\" class=\"large\"><br></p>",
+						"section": "<h1>How does it work?</h1><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/machine.jpg\" alt=\"\" class=\"large\"><br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-purple"
 						},
@@ -89,9 +89,33 @@
 			{
 				"sections": [
 					{
-						"section": "<p>Discussion</p><p><br></p><p>Give your opinion on the statements and elaborate if you want<br></p>",
+						"section": "<h1>Discussion</h1><p><br>\n</p><p>Give your opinion on the statements by showing red or green<br></p><p>Stand up if you want to elaborate<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "The decentralized web is just another dark web<br>",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Agree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Disagree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
 						},
 						"data-simply-template": "Simple"
 					}
