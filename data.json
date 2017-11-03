@@ -23,6 +23,13 @@
 							"data-state": "simply-filter simply-purple"
 						},
 						"data-simply-template": "Simple"
+					},
+					{
+						"section": "<p>simplyedit.io</p><p>hello@simplyedit.io<br></p><p>https://www.linkedin.com/company/simplyedit/</p><p>https://www.instagram.com/simplyeditweb/</p><p>https://www.facebook.com/simplyedit/</p><p>https://twitter.com/SimplyEditWeb<br></p><p>https://github.com/SimplyEdit<br></p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-aqua"
+						},
+						"data-simply-template": "Simple"
 					}
 				],
 				"data-simply-template": "Nested"
