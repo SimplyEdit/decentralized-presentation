@@ -193,6 +193,25 @@
 					}
 				],
 				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "<h1>The end</h1><p>Feel free to stay and discuss some more!<br></p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-orange"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "<h1>Further discussion topics</h1><ul><li>What does the decentralized web need to become a real alternative for the current web?</li></ul>\n<ul><li>Should the decentralized web provide everyday services like email and web hosting or not?</li></ul>\n<ul><li>Which pitfalls should we be careful about not to make the same mistakes as the current web?</li></ul>\n<ul><li>How do we prevent the decentralized web becoming just a hideout for criminals and dissidents?</li></ul>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-purple"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
 			}
 		]
 	}
