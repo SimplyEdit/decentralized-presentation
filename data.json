@@ -37,16 +37,23 @@
 			{
 				"sections": [
 					{
-						"section": "Slide 1",
+						"section": "Decentralized web<br>",
 						"sectionWrapper": {
-							"data-state": "simply-filter simply-green"
+							"data-state": "simply-filter simply-orange"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "Slide 1",
+						"section": "<p>How does it work?</p><p><br></p>",
 						"sectionWrapper": {
-							"data-state": "simply-filter simply-red"
+							"data-state": "simply-filter simply-purple"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "<p>Why go decentralized?</p><p><br></p>",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-aqua"
 						},
 						"data-simply-template": "Simple"
 					}
