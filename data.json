@@ -44,14 +44,14 @@
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<h1>How does it work?</h1><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/centralised-decentralised.png\" alt=\"\" class=\"large\"><br></p><p>peer2peer</p><p>Every receiver can become a sender <br></p>",
+						"section": "<h1>Why go decentralized?</h1><p><br></p><p>The current web is flawed</p><p>Privacy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
 						"sectionWrapper": {
-							"data-state": "simply-filter simply-purple"
+							"data-state": "simply-filter simply-aqua"
 						},
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<h1>Why go decentralized?</h1><p><br></p><p>The current web is flawed</p><p>Privacy - Security - Congestion - Censorship</p><p>Single points of failure - Linkrot<br></p><p><br></p>",
+						"section": "<h1>How does it work</h1><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/centralised-decentralised.png\" alt=\"\"></p><p>peer2peer</p><p>every visitor becomes a new node <br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-aqua"
 						},
