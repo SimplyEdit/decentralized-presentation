@@ -58,7 +58,7 @@
 						"data-simply-template": "Simple"
 					},
 					{
-						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that uses a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Ignorance</p><p>4. The technology is still very beta<br></p>",
+						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that use a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Ignorance</p><p>4. The technology is still very beta<br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
