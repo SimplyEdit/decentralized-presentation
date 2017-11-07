@@ -101,7 +101,7 @@
 			{
 				"sections": [
 					{
-						"section": "The decentralized web is just another dark web for criminals, dissidents and terrorists and therefore no serious contender as the successor of the web <br>",
+						"section": "Over half of the content on the internet is hosted within by few tech giants (Facebook, Google, Amazon), this is problem<br>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
@@ -125,7 +125,31 @@
 			{
 				"sections": [
 					{
-						"section": "The decentralized web will only work if Google/Facebook/Amazon are on board<br>",
+						"section": "The decentralized web is just another dark web for criminals and dissidents<br>",
+						"sectionWrapper": {},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Agree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-green"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Disagree",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-red"
+						},
+						"data-simply-template": "Simple"
+					}
+				],
+				"data-simply-template": "Nested"
+			},
+			{
+				"sections": [
+					{
+						"section": "<p>The decentralized web is well suited for some solutions, but not for everything</p><p>(online banking, e-commerce, big databases)<br></p>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
@@ -150,30 +174,6 @@
 				"sections": [
 					{
 						"section": "<p>In the move to a decentralized web, we do not need to bring along outdated technologies</p><p>(email, FTP)<br></p>",
-						"sectionWrapper": {},
-						"data-simply-template": "Simple"
-					},
-					{
-						"section": "Agree",
-						"sectionWrapper": {
-							"data-state": "simply-filter simply-green"
-						},
-						"data-simply-template": "Simple"
-					},
-					{
-						"section": "Disagree",
-						"sectionWrapper": {
-							"data-state": "simply-filter simply-red"
-						},
-						"data-simply-template": "Simple"
-					}
-				],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [
-					{
-						"section": "<p>The decentralized web is well suited for some solutions, but not for everything</p><p>(online banking, e-commerce)<br></p>",
 						"sectionWrapper": {},
 						"data-simply-template": "Simple"
 					},
