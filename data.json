@@ -4,7 +4,7 @@
 			{
 				"sections": [
 					{
-						"section": "<h1>Hi there!<br>We are SimplyEdit<br></h1><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"></p>",
+						"section": "<h1>Hi there!<br>We are:<br></h1><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -59,6 +59,13 @@
 						"section": "<h1>How does it work?</h1><p><img data-simply-src=\"https://simplyedit.github.io/decentralized-presentation/img/machine.jpg\" alt=\"\" class=\"large\"><br></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-purple"
+						},
+						"data-simply-template": "Simple"
+					},
+					{
+						"section": "Interested? Ask any of us for a quick demo!",
+						"sectionWrapper": {
+							"data-state": "simply-filter simply-orange"
 						},
 						"data-simply-template": "Simple"
 					}
