@@ -4,16 +4,9 @@
 			{
 				"sections": [
 					{
-						"section": "<h1>Hi there!<br>We are:<br></h1><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"></p>",
+						"section": "<h1>Hi there! We are<br></h1><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"><br>The first CMS for the decentralized web</p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
-						},
-						"data-simply-template": "Simple"
-					},
-					{
-						"section": "<h1>Nice to meet you!</h1><p>Lizanne Overkamp - CEO<br></p><p>Auke van Slooten - Evangelist</p><p>Yvo Brevoort - Lead developer</p><p>Kimberley Verhoog - Marketing</p><p>Florian Overkamp - Advisor</p>",
-						"sectionWrapper": {
-							"data-state": "simply-filter simply-purple"
 						},
 						"data-simply-template": "Simple"
 					}
@@ -35,13 +28,6 @@
 							"data-state": "simply-filter simply-aqua"
 						},
 						"data-simply-template": "Simple"
-					},
-					{
-						"section": "<h1>What is holding us back?</h1><p><br></p><p>1. All websites, applications, software, storage solutions etc that use a (central) server will not work <br></p><p>2. Politics and money</p><p>3. Ignorance</p><p>4. The technology is still very beta<br></p>",
-						"sectionWrapper": {
-							"data-state": "simply-filter simply-orange"
-						},
-						"data-simply-template": "Simple"
 					}
 				],
 				"data-simply-template": "Nested"
@@ -49,7 +35,7 @@
 			{
 				"sections": [
 					{
-						"section": "<h1>Our contribution<br></h1><p>With SimplyEdit we fixed a small part</p><p><br></p><p>We made a CMS for the decentralized web<br></p>",
+						"section": "<h1>Our contribution<br></h1><p>With SimplyEdit we made the decentralized web simple to use</p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
