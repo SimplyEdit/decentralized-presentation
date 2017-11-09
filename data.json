@@ -2,16 +2,9 @@
 	"/": {
 		"slides": [
 			{
-				"section": "Hi there! We are<br><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"></p>",
-				"sectionWrapper": {
-					"data-state": "simply-filter simply-orange"
-				},
-				"data-simply-template": "Simple"
-			},
-			{
 				"sections": [
 					{
-						"section": "<h1>Hi there!<br>We are SimplyEdit<br></h1>",
+						"section": "<h1>Hi there!<br>We are SimplyEdit<br></h1><p><img data-simply-src=\"https://ylebre.github.io/simply-presentation/img/Logo_Wit_180x180_transp@2x.png\" alt=\"\"></p>",
 						"sectionWrapper": {
 							"data-state": "simply-filter simply-orange"
 						},
@@ -70,30 +63,6 @@
 						"data-simply-template": "Simple"
 					}
 				],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
-				"data-simply-template": "Nested"
-			},
-			{
-				"sections": [],
 				"data-simply-template": "Nested"
 			}
 		]
